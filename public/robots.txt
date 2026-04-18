@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://one-shot.757tech.pro/sitemap.xml
